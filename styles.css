@@ -1,0 +1,43 @@
+body{
+    background-color:#c7af6d;
+    text-align: center;
+    font-family: Arial, serif;
+    margin: 0;
+    height: 100vh;
+}
+
+#wrapper{
+    position: absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffedba;
+    max-width: 80vw;
+    min-height: 100vh;
+}
+
+#totalAmount{
+    padding-top: 1vh;
+}
+
+h1{
+    padding-top: 1vh;
+}
+
+button{
+    background-color: #c7af6d;
+    border-radius: 5px;
+    padding: 5px;
+    min-width: 10vw;
+}
+
+#nameTable{
+    min-width: 15vw;
+    min-height: 80vh;
+    margin:auto;
+    text-align: left;
+    padding: 5vh;
+}
